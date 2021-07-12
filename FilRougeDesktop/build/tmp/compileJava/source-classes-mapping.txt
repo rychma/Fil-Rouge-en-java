@@ -1,0 +1,20 @@
+org/example/GUI/ConnexionController.java
+ org.example.GUI.ConnexionController
+org/example/DAL/EmployeDAO.java
+ org.example.DAL.EmployeDAO
+org/example/DAL/ClientDAO.java
+ org.example.DAL.ClientDAO
+org/example/DAL/Client.java
+ org.example.DAL.Client
+org/example/GUI/AccueilController.java
+ org.example.GUI.AccueilController
+org/example/DAL/Employe.java
+ org.example.DAL.Employe
+org/example/App.java
+ org.example.App
+org/example/DAL/FilRougeDB.java
+ org.example.DAL.FilRougeDB
+org/example/GUI/AjoutClientController.java
+ org.example.GUI.AjoutClientController
+org/example/GUI/RechercheClientController.java
+ org.example.GUI.RechercheClientController
